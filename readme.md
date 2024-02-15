@@ -1,3 +1,4 @@
+# Homework3_CalcApp
 # 3 Levels Of Calculator Homework
 
 For this homework. what you need to do is to try to make the most complete calculator that can add, subtract, multiply, divide and store a history of calulations.  The purpose of this assignment is to introduce you understand the principles of object oriented programming, unit testing, and design principles such as SOLID, DRY, GRASP, and Seperation of concerns.  Its important to understand how to properly organize your code using the professional "grammer" of programming and not just the syntax of if statements and loops.
